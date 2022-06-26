@@ -1,11 +1,13 @@
 body {
-	
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 section {
 	width: 420px;
+	position: relative;
+	border: 1px solid;
+	background-image: url(./bg.png);
 }
 .loginForm {
 	width: 300px;
