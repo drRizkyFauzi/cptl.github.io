@@ -1,11 +1,11 @@
 body {
-	min-height: 100vh;
+	max-height: 740px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 section {
-	height: 740px;
+	
 	width: 420px;
 	border: 1px solid #ccc;
 }
